@@ -3,3 +3,8 @@ while(i<10)
     cout<<"Hello, World!\n";
     i++;
 }
+while(i>10&& i<100)
+{
+    cout<<"Hello, Abhishek!\n";
+    i++;
+}
